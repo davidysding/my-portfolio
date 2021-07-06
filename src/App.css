@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.success-msg {
+  color: rgb(41, 41, 240);
+  padding: 10px 15px;
+}
+
+.err-msg {
+  color: red;
+  padding: 10px 15px;
+}

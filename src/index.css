@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-carousel {
+  margin: 20px;
+  width: 300px !important;
+}
+.card-carousel-img{
+  width: auto;
+  height: 480px;
+  
+}
+.card-carousel-img-container {
+  border-radius: 10px;
+  box-shadow: 0 0 3px 1px #ccc; 
+  height: 480px;
+  width: 300px;
+  overflow: hidden;
+} 
+.card-carousel-info {
+  min-height: 100px;
+  margin-top: 10px;
+}
+.card-carousel-title {
+  margin: 0px; 
+  font-size: 24px; 
+}
+.card-carousel-subtitle {
+  font-size: 16px;
+  margin: 0px;
+}
