@@ -15,7 +15,7 @@ import AboutPage from './pages/AboutPage'
 
 export default class App extends Component {
   state = {
-    title: 'YUsheng Ding',
+    title: 'Yusheng Ding',
     headerLinks: [
       { title: 'Home', path: '/' },
       { title: 'About', path: '/about' },
